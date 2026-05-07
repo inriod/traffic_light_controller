@@ -84,7 +84,5 @@ The whole system works using `millis()` timing.
 
 ---
 
-## Main File
-
-```cpp
+## Useful Files
 [Download the Code](./code/traffic_light_controller.ino)
