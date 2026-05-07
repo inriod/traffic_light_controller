@@ -21,7 +21,7 @@ It simulates a 4-way intersection with:
 - Buzzer sounds
 
 ---
-[![Watch the video](https://youtube.com)](https://www.youtube.com/watch?v=-PDQRHgW4zY)
+[Walkthrough + Live Preview](https://www.youtube.com/watch?v=-PDQRHgW4zY)
 
 ## How to Run
 
@@ -87,4 +87,4 @@ The whole system works using `millis()` timing.
 ## Main File
 
 ```cpp
-traffic_light_controller.ino
+[Download the Code](./code/traffic_light_controller.ino)
