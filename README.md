@@ -3,7 +3,7 @@
 ```text
  __________________   ________________________
 | >>Ashot<<        | |      e-mail me    || -.\
-|   >>Nahapetyan<< | | ashotnhp@gmail.com|| |_\\
+|   >>Nahapetyan<< | | inriods@gmail.com|| |_\\
 |__________________|. |___________________|| -  |
 B_,-.___________,-._|-B_,-._,-.____________|,-._)
 --`-'-----------`-'-----`-'-`-'-------------`-'--
@@ -85,4 +85,4 @@ The whole system works using `millis()` timing.
 ---
 
 ## Useful Files
-[Download the Code](./code/traffic_light_controller.ino)
+[Access the Code](./code/traffic_light_controller.ino)
