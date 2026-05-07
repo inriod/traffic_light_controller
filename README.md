@@ -21,6 +21,7 @@ It simulates a 4-way intersection with:
 - Buzzer sounds
 
 ---
+[![Watch the video](https://youtube.com)](https://www.youtube.com/watch?v=-PDQRHgW4zY)
 
 ## How to Run
 
